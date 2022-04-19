@@ -24,7 +24,7 @@
 * O(n<sup>2</sup>)
 ### Best Case Time Complexity
 * O(n)
-* 18 değerine sahip dizi indexi worst case' girer.
+* 18 değerine sahip dizi indexi average case' girer.
 # Örnek Dizi 2
 **[7,3,5,8,2,9,4,15,6]** dizisin ilk dört adımı aşağıda verilmiştir.
 
